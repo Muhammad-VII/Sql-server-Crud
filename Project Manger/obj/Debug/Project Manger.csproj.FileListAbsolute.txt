@@ -1,0 +1,45 @@
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\bin\Debug\Project Manger.exe.config
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\bin\Debug\Project Manger.exe
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\bin\Debug\Project Manger.pdb
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.csprojAssemblyReference.cache
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Form1.resources
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Properties.Resources.resources
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.csproj.GenerateResource.cache
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.csproj.CoreCompileInputs.cache
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.exe
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.pdb
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Customers.resources
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Orders.resources
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Products.resources
+C:\Users\MuZi\Desktop\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Refunds.resources
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\bin\Debug\Project Manger.exe.config
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\bin\Debug\Project Manger.exe
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\bin\Debug\Project Manger.pdb
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.csprojAssemblyReference.cache
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Customers.resources
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Form1.resources
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Orders.resources
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Products.resources
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Properties.Resources.resources
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Refunds.resources
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.csproj.GenerateResource.cache
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.csproj.CoreCompileInputs.cache
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.exe
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.pdb
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Shippers.resources
+C:\Users\MuZi\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Master_Details.resources
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\bin\Debug\Project Manger.exe.config
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\bin\Debug\Project Manger.exe
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\bin\Debug\Project Manger.pdb
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Customers.resources
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Form1.resources
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Orders.resources
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Products.resources
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Properties.Resources.resources
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Refunds.resources
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project_Manger.Shippers.resources
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.csproj.GenerateResource.cache
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.exe
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.pdb
+C:\Users\Muhammad Akmal\Desktop\محمد أكمل حامد سكشن 2\Prj Manger\Project Manger\Project Manger\obj\Debug\Project Manger.csproj.AssemblyReference.cache
